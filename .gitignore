@@ -1,0 +1,16 @@
+## Build generated
+test.xcodeproj/build/
+test.xcodeproj/DerivedData
+test.xcodeproj/build.xcarchive
+
+## Various settings
+test.xcodeproj/*.pbxuser
+test.xcodeproj/!default.pbxuser
+test.xcodeproj/*.mode1v3
+test.xcodeproj/!default.mode1v3
+test.xcodeproj/*.mode2v3
+test.xcodeproj/!default.mode2v3
+test.xcodeproj/*.perspectivev3
+test.xcodeproj/!default.perspectivev3
+test.xcodeproj/xcuserdata
+test.xcodeproj/project.xcworkspace/xcuserdata
